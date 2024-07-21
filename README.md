@@ -12,6 +12,9 @@ Welcome to the BMI Calculator application! This is a simple tool to calculate Bo
 
 ## Screeshots
 
+![Screenshot 2024-07-22 015217](https://github.com/user-attachments/assets/5ca4a8cc-4be3-4cb8-bb41-4647af79959e)
+![Screenshot 2024-07-22 015258](https://github.com/user-attachments/assets/f7bf4976-375e-4de9-b2cf-fa6832bb27ac)
+
 ## Tech Stack
 
 - **Frontend:** ReactJS, CSS
